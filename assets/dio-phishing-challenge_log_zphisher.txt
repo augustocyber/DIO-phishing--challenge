@@ -1,0 +1,111 @@
+Script started on 2023-11-26 09:45:53-03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="127" LINES="30"]
+[?2004h]0;albus@NBBINO: ~[;32m┌──([1;34malbus㉿NBBINO[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m sudo su
+[?2004l[sudo] password for albus: 
+[?2004h]0;root@NBBINO: /home/albus[;94m┌──([1;31mroot㉿NBBINO[;94m)-[[0;1m/home/albus[;94m]
+[;94m└─[1;31m#[0m [H[2J]0;root@NBBINO: /home/albus[;94m┌──([1;31mroot㉿NBBINO[;94m)-[[0;1m/home/albus[;94m]
+[;94m└─[1;31m#[0m cd zphisher/
+[?2004l
+[?2004h]0;root@NBBINO: /home/albus/zphisher[;94m┌──([1;31mroot㉿NBBINO[;94m)-[[0;1m/home/albus/zphisher[;94m]
+[;94m└─[1;31m#[0m pwd
+[?2004l/home/albus/zphisher
+
+[?2004h]0;root@NBBINO: /home/albus/zphisher[;94m┌──([1;31mroot㉿NBBINO[;94m)-[[0;1m/home/albus/zphisher[;94m]
+[;94m└─[1;31m#[0m bah[Ksh zphisher.sh 
+[?2004l
+[32m[[37m+[32m][36m Installing required packages...
+
+[32m[[37m+[32m][32m Packages already installed.
+
+[32m[[37m+[32m][36m Internet Status : [32mOnline[37m
+
+[32m[[37m+[32m][36m Checking for update : [32mup to date
+[37m
+[32m[[37m+[32m][32m Cloudflared already installed.
+
+[32m[[37m+[32m][32m LocalXpose already installed.
+[H[2J[3J[33m
+[33m ______      _     _     _               
+[33m|___  /     | |   (_)   | |              
+[33m   / / _ __ | |__  _ ___| |__   ___ _ __ 
+[33m  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
+[33m / /__| |_) | | | | \__ \ | | |  __/ |   
+[33m/_____| .__/|_| |_|_|___/_| |_|\___|_|   
+[33m      | |                                
+[33m      |_|                [31mVersion : 2.3.5
+
+[32m[[37m-[32m][36m Tool Created by htr-tech (tahmid.rayat)[37m
+
+[31m[[37m::[31m][33m Select An Attack For Your Victim [31m[[37m::[31m][33m
+
+[31m[[37m01[31m][33m Facebook      [31m[[37m11[31m][33m Twitch       [31m[[37m21[31m][33m DeviantArt
+[31m[[37m02[31m][33m Instagram     [31m[[37m12[31m][33m Pinterest    [31m[[37m22[31m][33m Badoo
+[31m[[37m03[31m][33m Google        [31m[[37m13[31m][33m Snapchat     [31m[[37m23[31m][33m Origin
+[31m[[37m04[31m][33m Microsoft     [31m[[37m14[31m][33m Linkedin     [31m[[37m24[31m][33m DropBox	
+[31m[[37m05[31m][33m Netflix       [31m[[37m15[31m][33m Ebay         [31m[[37m25[31m][33m Yahoo		
+[31m[[37m06[31m][33m Paypal        [31m[[37m16[31m][33m Quora        [31m[[37m26[31m][33m Wordpress
+[31m[[37m07[31m][33m Steam         [31m[[37m17[31m][33m Protonmail   [31m[[37m27[31m][33m Yandex			
+[31m[[37m08[31m][33m Twitter       [31m[[37m18[31m][33m Spotify      [31m[[37m28[31m][33m StackoverFlow
+[31m[[37m09[31m][33m Playstation   [31m[[37m19[31m][33m Reddit       [31m[[37m29[31m][33m Vk
+[31m[[37m10[31m][33m Tiktok        [31m[[37m20[31m][33m Adobe        [31m[[37m30[31m][33m XBOX
+[31m[[37m31[31m][33m Mediafire     [31m[[37m32[31m][33m Gitlab       [31m[[37m33[31m][33m Github
+[31m[[37m34[31m][33m Discord       [31m[[37m35[31m][33m Roblox 
+
+[31m[[37m99[31m][33m About         [31m[[37m00[31m][33m Exit
+
+[31m[[37m-[31m][32m Select an option : [34m01
+
+[31m[[37m01[31m][33m Traditional Login Page
+[31m[[37m02[31m][33m Advanced Voting Poll Login Page
+[31m[[37m03[31m][33m Fake Security Login Page
+[31m[[37m04[31m][33m Facebook Messenger Login Page
+
+[31m[[37m-[31m][32m Select an option : [34m01
+[H[2J[3J[34m
+[34m  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+[34m  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+[34m  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀[37m 2.3.5
+
+[31m[[37m01[31m][33m Localhost
+[31m[[37m02[31m][33m Cloudflared  [31m[[36mAuto Detects[31m]
+[31m[[37m03[31m][33m LocalXpose   [31m[[36mNEW! Max 15Min[31m]
+
+[31m[[37m-[31m][32m Select a port forwarding service : [34m01
+
+[31m[[37m?[31m][33m Do You Want A Custom Port [32m[[36my[32m/[36mN[32m]: [33mN
+
+[31m[[37m-[31m][34m Using Default Port 8080...[37m
+
+[31m[[37m-[31m][32m Initializing... [32m( [36mhttp://127.0.0.1:8080 [32m)
+
+[31m[[37m-[31m][34m Setting up server...[37m
+
+[31m[[37m-[31m][34m Starting PHP server...[37m[H[2J[3J[34m
+[34m  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+[34m  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+[34m  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀[37m 2.3.5
+
+[31m[[37m-[31m][32m Successfully Hosted at : [32m[36mhttp://127.0.0.1:8080 [32m
+
+[31m[[37m-[31m][33m Waiting for Login Info, [34mCtrl + C [33mto exit...
+
+[31m[[37m-[31m][32m Victim IP Found !
+
+[31m[[37m-[31m][32m Victim's IP : [34m127.0.0.1
+
+[31m[[37m-[31m][34m Saved in : [33mauth/ip.txt
+
+[31m[[37m-[31m][32m Login info Found !!
+
+[31m[[37m-[31m][32m Account : [34malbinoteste
+
+[31m[[37m-[31m][32m Password : [34mteste1234
+
+[31m[[37m-[31m][34m Saved in : [33mauth/usernames.dat
+
+[31m[[37m-[31m][33m Waiting for Next Login Info, [34mCtrl + C [33mto exit. ^C
+
+[31m[[37m![31m][31m Program Interrupted.
+
+(B[m[39;49m
+[?2004h]0;root@NBBINO: /home/albus/zphisher[;94m┌──([1;31mroot㉿NBBINO[;94m)-[[0;1m/h
